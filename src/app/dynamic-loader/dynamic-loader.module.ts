@@ -17,5 +17,5 @@ import { DynamicLoaderComponent } from './dynamic-loader.component';
         DynamicLoaderDirective
     ]
 })
-export class LoaderModule {}
+export class DynamicLoaderModule {}
 
